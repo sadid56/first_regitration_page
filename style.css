@@ -19,6 +19,8 @@
     height: fit-content;
     margin: 50px auto;
     position: relative;
+    backdrop-filter: blur(5px);
+    
 
 }
 .login input{
